@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Financial Analyst" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -20,8 +20,8 @@ I'm an analyst dedicated to transforming complex numbers into actionable insight
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Building a sales forecasting model in Python. 
-- **Project B:** Creating an interactive marketing dashboard in Power BI.
+- **Project A:** Analysing budget variances and model scenarios. 
+- **Project B:** Evaluating cost drivers and forecasting performance.
 
 ## 🌱 Currently Learning 
 
