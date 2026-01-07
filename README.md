@@ -21,13 +21,13 @@ My focus is on building dashboards that get used, automating repetitive tasks to
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Building a sales forecasting model in Python.]  
-- **Project B:** [ Creating an interactive marketing dashboard in Power BI.]
+- **Project A:** Building a sales forecasting model in Python. 
+- **Project B:** Creating an interactive marketing dashboard in Power BI.
 
 ## 🌱 Currently Learning 
 
-- [Python.]
-- [Pandas.]
+- Python
+- Pandas
 
 ## 🛠️ Technical Skillset
 
