@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Analyst]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Analyst" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,8 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm an analyst passionate about delivering data driven insights. 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I'm an analyst dedicated to transforming complex numbers into actionable insights and strategic decisions. Outside the world of spreadsheets and SQL, I value the balance of a great social atmosphere and meaningful connections.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://AngelaWanjiku.github.io/)
