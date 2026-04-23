@@ -17,16 +17,18 @@ I'm an analyst dedicated to transforming complex numbers into actionable insight
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://AngelaWanjiku.github.io/)
+
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Analysing budget variances and model scenarios. 
-- **Project B:** Evaluating cost drivers and forecasting performance.
+- **Project A:** Promotion Revenue Optimization System (Python, MySQL, Power BI) 
+- Next: AI-powered financial reporting automations 
+
 
 ## 🌱 Currently Learning 
 
-- Python
-- Pandas
+- AI Automations & Analytics
+
 
 ## 🛠️ Technical Skillset
 
