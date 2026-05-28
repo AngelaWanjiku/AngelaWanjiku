@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm an analyst dedicated to transforming complex numbers into actionable insights and strategic decisions. Outside the world of spreadsheets and SQL, I value the balance of a great social atmosphere and meaningful connections.
+I'm an analyst dedicated to transforming complex numbers into actionable insights and strategic decisions. Outside the world of spreadsheets and SQL, I value the balance of a great social atmosphere and meaningful conversations.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://AngelaWanjiku.github.io/)
