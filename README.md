@@ -15,12 +15,6 @@
 ## 🚀 About Me 
 I'm an analyst dedicated to transforming complex numbers into actionable insights and strategic decisions. Outside the world of spreadsheets and SQL, I value the balance of a great social atmosphere and meaningful conversations.
 
-      
-## 🔭 What I'm Currently Working On 
-
-- **Project A:** Promotion Revenue Optimization System (Python, MySQL, Power BI) 
-- Next: AI-powered financial reporting automations 
-
 
 ## 🌱 Currently Learning 
 
